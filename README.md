@@ -1,4 +1,3 @@
-# aishwarya.github.io
 <!DOCTYPE HTML>
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -19,9 +18,9 @@
             <tr style="padding:0px">
               <td style="padding:2.5%;width:63%;vertical-align:middle">
                 <p style="text-align:center">
-                  <name>Aishwarya V</name>
+                  <font size = "5">Aishwarya V</font>
                 </p>
-                <p> I'm a civil engineer with a postgraduate degree in Remote Sensing and GIS at the National Institute of Technology Karnataka, Surathkal. 
+                <p style="text-align:justify"> I'm a civil engineer with a postgraduate degree in Remote Sensing and GIS at the National Institute of Technology Karnataka, Surathkal. 
                     I'm skilled in ArcGIS, QGIS, Google Earth Engine, ERDAS Imagine, SNAP, AutoCAD, and 3ds MAX. 
                     I've also applied the use of Python, JavaScript, and HTML in my projects.
                 </p>
@@ -40,7 +39,7 @@
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;width:100%;vertical-align:middle">
-              <heading>Research</heading>
+              <h3>Research</h3>
               <p>
                 I'm interested to work with drone and satellite based spatial datasets in land monitoring, DEM generation, and water projects. 
                 The following are my academic works.
@@ -48,3 +47,23 @@
             </td>
           </tr>
         </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody></tbody>
+          <tr>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://www.ijitee.org/wp-content/uploads/papers/v9i2/B6400129219.pdf">
+                <papertitle>Reactive Powder Concrete with Composite Fibres</papertitle>
+              </a>
+              <br>
+              <a>Jeganmurugan P</a>,
+              <a>Gopalan A</a>,            
+              <strong>Aishwarya V</strong>,
+              <a>Aravind S</a>,
+              <br>
+              <em>IJITEE</em>, 2019
+              <br>
+              <p style="text-align:justify">
+              The goal of this project was to acheive high compressive and flexural strength without the addition of coarse aggregates. 
+              The addition of composite fibres and superplasticizers helped in achieving high strength quicker than conventional concrete.
+              </p>
+            </td>
+          </tr>
